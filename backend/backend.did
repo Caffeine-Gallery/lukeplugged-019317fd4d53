@@ -1,0 +1,4 @@
+service : {
+  getBiography: () -> (text) query;
+  getICWinningPoints: () -> (text) query;
+}
